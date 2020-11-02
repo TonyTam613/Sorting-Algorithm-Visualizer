@@ -15,7 +15,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-const int listSize = 100;
+const int listSize = 400;
 
 using namespace std;
 

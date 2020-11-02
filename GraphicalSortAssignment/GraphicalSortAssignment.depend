@@ -121,3 +121,38 @@
 	"MyListClassHeader.h"
 	"AllegroHeader.h"
 
+1600634397 source:c:\users\seepa\documents\github\sorting-algorithm-visualizer\graphicalsortassignment\allegrofunctions.cpp
+	"AllegroHeader.h"
+	"MyListClassHeader.h"
+
+1600634397 c:\users\seepa\documents\github\sorting-algorithm-visualizer\graphicalsortassignment\allegroheader.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string>
+
+1604353804 c:\users\seepa\documents\github\sorting-algorithm-visualizer\graphicalsortassignment\mylistclassheader.h
+	<iostream>
+	<vector>
+	<fstream>
+	<random>
+	<time.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1600636411 source:c:\users\seepa\documents\github\sorting-algorithm-visualizer\graphicalsortassignment\graphicalsortmain.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
+1600634397 source:c:\users\seepa\documents\github\sorting-algorithm-visualizer\graphicalsortassignment\mylistclassfunctions.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
