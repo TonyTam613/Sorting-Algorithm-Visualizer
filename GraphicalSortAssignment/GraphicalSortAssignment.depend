@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1579739259 source:c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegrofunctions.cpp
+	"AllegroHeader.h"
+	"MyListClassHeader.h"
+
+1579739276 c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegroheader.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string>
+
+1579736358 c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortheader.h
+	<iostream>
+	<vector>
+	<fstream>
+	<random>
+	<time.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1579736539 source:c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortfunctions.cpp
+	"GraphicalSortHeader.h"
+	"AllegroHeader.h"
+
+1579740350 source:c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortmain.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
+1579710393 source:p:\new\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegrofunctions.cpp
+	"AllegroHeader.h"
+	"GraphicalSortHeader.h"
+
+1579708369 p:\new\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegroheader.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1579710049 p:\new\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortheader.h
+	<iostream>
+	<vector>
+	<fstream>
+	<random>
+	<time.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1579710338 source:p:\new\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortmain.cpp
+	"GraphicalSortHeader.h"
+	"AllegroHeader.h"
+
+1579708536 source:p:\new\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortfunctions.cpp
+	"GraphicalSortHeader.h"
+	"AllegroHeader.h"
+
+1579745618 c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\mylistclassheader.h
+	<iostream>
+	<vector>
+	<fstream>
+	<random>
+	<time.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1579745631 source:c:\users\seepa_000\documents\the gud git\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\mylistclassfunctions.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
+1600637997 source:c:\users\seepa\documents\github\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegrofunctions.cpp
+	"AllegroHeader.h"
+	"MyListClassHeader.h"
+
+1600637997 c:\users\seepa\documents\github\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\allegroheader.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string>
+
+1600640011 c:\users\seepa\documents\github\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\mylistclassheader.h
+	<iostream>
+	<vector>
+	<fstream>
+	<random>
+	<time.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1600640011 source:c:\users\seepa\documents\github\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\graphicalsortmain.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
+1600637997 source:c:\users\seepa\documents\github\6-graphical-sorting-assignment-tony-tam\graphicalsortassignment\mylistclassfunctions.cpp
+	"MyListClassHeader.h"
+	"AllegroHeader.h"
+
